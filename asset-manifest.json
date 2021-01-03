@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/react-screening-mailmodo/static/css/main.385e3c27.chunk.css",
+    "main.js": "/react-screening-mailmodo/static/js/main.0ce2f7d0.chunk.js",
+    "main.js.map": "/react-screening-mailmodo/static/js/main.0ce2f7d0.chunk.js.map",
+    "runtime-main.js": "/react-screening-mailmodo/static/js/runtime-main.fc8c2335.js",
+    "runtime-main.js.map": "/react-screening-mailmodo/static/js/runtime-main.fc8c2335.js.map",
+    "static/css/2.20aa2d7b.chunk.css": "/react-screening-mailmodo/static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.30c85bc7.chunk.js": "/react-screening-mailmodo/static/js/2.30c85bc7.chunk.js",
+    "static/js/2.30c85bc7.chunk.js.map": "/react-screening-mailmodo/static/js/2.30c85bc7.chunk.js.map",
+    "static/js/3.178041dd.chunk.js": "/react-screening-mailmodo/static/js/3.178041dd.chunk.js",
+    "static/js/3.178041dd.chunk.js.map": "/react-screening-mailmodo/static/js/3.178041dd.chunk.js.map",
+    "index.html": "/react-screening-mailmodo/index.html",
+    "static/css/2.20aa2d7b.chunk.css.map": "/react-screening-mailmodo/static/css/2.20aa2d7b.chunk.css.map",
+    "static/css/main.385e3c27.chunk.css.map": "/react-screening-mailmodo/static/css/main.385e3c27.chunk.css.map",
+    "static/js/2.30c85bc7.chunk.js.LICENSE.txt": "/react-screening-mailmodo/static/js/2.30c85bc7.chunk.js.LICENSE.txt",
+    "static/media/destination.5336278d.svg": "/react-screening-mailmodo/static/media/destination.5336278d.svg",
+    "static/media/warehouse.147c9c0b.svg": "/react-screening-mailmodo/static/media/warehouse.147c9c0b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc8c2335.js",
+    "static/css/2.20aa2d7b.chunk.css",
+    "static/js/2.30c85bc7.chunk.js",
+    "static/css/main.385e3c27.chunk.css",
+    "static/js/main.0ce2f7d0.chunk.js"
+  ]
+}
