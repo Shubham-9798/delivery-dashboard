@@ -48,9 +48,9 @@ class TableView extends Component {
              </thead>
              <tbody>
                  {this.props.dummy.map((list,index) => 
-                 <tr style={styles.tableRow} >
-                     <th scope="row">{index+1}</th>
-                     <td className="pointer" onClick={() => this.props.handleShowTrack(list._id)}>{list.awbno}</td>
+                 <tr style={styles.tableRow} key={index} >
+                     <th scope="row" key={index}>{index+1}</th>
+                     <td className="pointer" key={list.awbno.slice(1, 4)} onClick={() => this.props.handleShowTrack(list._id)}>{list.awbno}</td>
                      <td>{list.carrier}</td>
                      <td>
                        {list.from ? list.from: ""}  

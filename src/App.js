@@ -104,7 +104,7 @@ class App extends Component {
                 return Promise.reject(error);
             }
 
-            data.map((st) => {
+            data.forEach((st) => {
               if(st.current_status_code === "DEL") {
                 const newState = {...this.state.status, DEL: this.state.status.DEL + 1}
                 this.setState({status: newState})

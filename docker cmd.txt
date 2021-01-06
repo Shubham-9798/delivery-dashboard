@@ -1,0 +1,3 @@
+docker run -it -p 3001:3000 --name react-app react:dev
+
+docker build -t ps-container:dev .

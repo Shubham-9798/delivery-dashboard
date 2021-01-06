@@ -9,7 +9,7 @@ class Header extends Component {
         return ( 
         <React.Fragment>
             <nav className="navbar navbar-expand-lg navbar-light bg-light">
-            <a className="navbar-brand">Delivery DashBoard</a>
+            <a href="#top" className="navbar-brand">Delivery DashBoard</a>
             </nav>
         </React.Fragment> );
     }
